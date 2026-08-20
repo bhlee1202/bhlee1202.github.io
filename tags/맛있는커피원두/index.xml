@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>커피원두추천 on </title>
-    <link>/tags/%EC%BB%A4%ED%94%BC%EC%9B%90%EB%91%90%EC%B6%94%EC%B2%9C/</link>
-    <description>Recent content in 커피원두추천 on </description>
+    <title>맛있는커피원두 on </title>
+    <link>/tags/%EB%A7%9B%EC%9E%88%EB%8A%94%EC%BB%A4%ED%94%BC%EC%9B%90%EB%91%90/</link>
+    <description>Recent content in 맛있는커피원두 on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%EC%BB%A4%ED%94%BC%EC%9B%90%EB%91%90%EC%B6%94%EC%B2%9C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%EB%A7%9B%EC%9E%88%EB%8A%94%EC%BB%A4%ED%94%BC%EC%9B%90%EB%91%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[2026 AI 딥러닝 리포트] 산미 없는 커피 원두 추천, 고소한 맛 1위 스펙 팩트체크</title>
       <link>/posts/data-classic-blend/</link>
